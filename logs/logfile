@@ -1,0 +1,92 @@
+info: Request🏷️: Oct-03-2021 14:25:44: Server server started at http://localhost:3000
+info: Request🏷️: Oct-03-2021 14:25:44: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:25:44: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:25:44: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:25:45: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:25:46: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:25:48: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:25:50: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:25:55: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:26:03: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:26:17: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:26:41: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+error: Request🏷️: Oct-03-2021 14:27:10: uncaughtException: stream.write is not a function
+TypeError: stream.write is not a function
+    at Array.logRequest (/Users/chineduifediorah/Desktop/CODE/PROJECT/meta-care-test/node_modules/morgan/index.js:130:14)
+    at listener (/Users/chineduifediorah/Desktop/CODE/PROJECT/meta-care-test/node_modules/on-finished/index.js:169:15)
+    at onFinish (/Users/chineduifediorah/Desktop/CODE/PROJECT/meta-care-test/node_modules/on-finished/index.js:100:5)
+    at callback (/Users/chineduifediorah/Desktop/CODE/PROJECT/meta-care-test/node_modules/ee-first/index.js:55:10)
+    at ServerResponse.onevent (/Users/chineduifediorah/Desktop/CODE/PROJECT/meta-care-test/node_modules/ee-first/index.js:93:5)
+    at ServerResponse.emit (events.js:412:35)
+    at onFinish (_http_outgoing.js:792:10)
+    at callback (internal/streams/writable.js:513:21)
+    at afterWrite (internal/streams/writable.js:466:5)
+    at afterWriteTick (internal/streams/writable.js:453:10)
+info: Request🏷️: Oct-03-2021 14:29:43: Server server started at http://localhost:3000
+info: Request🏷️: Oct-03-2021 14:29:43: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:29:44: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:29:44: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:29:44: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:29:45: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:29:47: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:29:50: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-03-2021 14:29:55: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+error: Request🏷️: Oct-03-2021 14:29:59: uncaughtException: stream.write is not a function
+TypeError: stream.write is not a function
+    at Array.logRequest (/Users/chineduifediorah/Desktop/CODE/PROJECT/meta-care-test/node_modules/morgan/index.js:130:14)
+    at listener (/Users/chineduifediorah/Desktop/CODE/PROJECT/meta-care-test/node_modules/on-finished/index.js:169:15)
+    at onFinish (/Users/chineduifediorah/Desktop/CODE/PROJECT/meta-care-test/node_modules/on-finished/index.js:100:5)
+    at callback (/Users/chineduifediorah/Desktop/CODE/PROJECT/meta-care-test/node_modules/ee-first/index.js:55:10)
+    at ServerResponse.onevent (/Users/chineduifediorah/Desktop/CODE/PROJECT/meta-care-test/node_modules/ee-first/index.js:93:5)
+    at ServerResponse.emit (events.js:412:35)
+    at onFinish (_http_outgoing.js:792:10)
+    at callback (internal/streams/writable.js:513:21)
+    at afterWrite (internal/streams/writable.js:466:5)
+    at afterWriteTick (internal/streams/writable.js:453:10)
+info: Request🏷️: Oct-04-2021 07:20:39: Server server started at http://localhost:3000
+info: Request🏷️: Oct-04-2021 07:20:39: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:20:39: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:20:40: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:20:40: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:20:41: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:20:43: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:20:46: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:20:51: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:20:59: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:21:13: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:21:37: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:22:17: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:23:25: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:25:22: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:28:40: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:29:07: Server server started at http://localhost:3000
+info: Request🏷️: Oct-04-2021 07:29:07: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:29:08: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:29:08: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:29:08: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:29:09: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:29:14: Server server started at http://localhost:3000
+info: Request🏷️: Oct-04-2021 07:29:14: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:29:14: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:29:14: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:29:15: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:29:16: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:29:17: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:29:20: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:29:25: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:29:33: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:29:47: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:30:11: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:30:51: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:32:00: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:53:34: Server server started at http://localhost:3000
+info: Request🏷️: Oct-04-2021 07:53:39: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:53:44: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:53:49: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:53:55: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:54:01: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:54:02: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:54:05: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:54:10: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:54:18: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
+info: Request🏷️: Oct-04-2021 07:54:32: Redis connection to http:6379 failed - getaddrinfo ENOTFOUND http
